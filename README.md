@@ -4,8 +4,10 @@
 
 Java
 Spring Boot
-MySQL
-MongoDB
+JavaScript & TypeScript
+Cypress
+Playwright
+SQL
 
 🌟 Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades. Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
@@ -17,8 +19,10 @@ MongoDB
 
 Java
 Spring Boot
-MySQL
-MongoDB
+JavaScript & TypeScript
+Cypress
+Playwright
+SQL
 
 🌟 I'm always looking for new challenges and opportunities to learn and enhance my skills. Feel free to explore my projects and reach out!
 
